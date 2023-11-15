@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-A (mostly) self taught developer looking for entry level SWE/SDE jobs.
+A Software Developer looking for entry level SWE/SDE jobs. Most comfortable with full-stack web development but am able to pick up new stacks fairly quickly.
 
 ## Links
 - [Resume](https://kyleung1.github.io/Resume)
