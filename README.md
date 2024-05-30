@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About Me
-A Software Developer looking for entry level SWE/SDE jobs. Most comfortable with full-stack web development but am able to pick up new stacks fairly quickly.
+A Software Developer at The Guide Network. Most comfortable with full-stack web development.
 
 ## Links
 - [Resume](https://kyleung1.github.io/Resume)
